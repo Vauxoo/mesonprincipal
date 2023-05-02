@@ -1,0 +1,4 @@
+[submodule "mesonprincipal"]
+	path = mesonprincipal
+	url = git@git.vauxoo.com:vauxoo/mesonprincipal.git
+	branch = 16.0
